@@ -12,7 +12,7 @@ I have written these queries using the DBeaver tool for PostgreSQL to answer the
 
 ### Third: Evaluate Data Quality Issues in the Data Provided
 Please refer to the file: Third_Data_Quality_Check.ipynb<br>
-This file contains all the code from data cleaning and preprocessing to analyzing data for quality checks. Each step is clearly mentioned with comments in the file and data quality issues are summarized in markdown cells in the file itself.<br>
+This file contains all the code from data cleaning and preprocessing to analyzing data for quality checks. Each step is clearly mentioned with comments in the file and data quality issues are summarized in markdown cells in the file itself.<br><br>
 Some of the major data quality issues which were found against the new relational data model are:
 1) Apart from users, users_receipts, and category_code tables, all other tables have lots of missing data.
 2) In the category_code table, we've identified instances where certain categories have missing values represented as NaN for their code. Additionally, we've observed cases where a category exhibits both NaN and another value as its code. This situation introduces inconsistency in the data structure.
