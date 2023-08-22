@@ -2,8 +2,9 @@
 This repository contains my submission for FetchRewards Assessment
 
 ### First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
-Please refer to the file: First_New_Structured_Data.pdf
-For this question, I have eliminated some columns with lots of missing values to keep the ER diagram simple and easy to understand. The diagram shows all the tables with all the columns and if an instance is a primary key or foreign key and how each table is connected on different cardinality levels with other tables.
+Please refer to the file: First_New_Structured_Data.pdf//
+For this question, I have eliminated some columns with lots of missing values to keep the ER diagram simple and easy to understand. //
+The diagram shows all the tables with all the columns and if an instance is a primary key or foreign key and how each table is connected on different cardinality levels with other tables.
 
 ### Second: Write a query that directly answers a predetermined question from a business stakeholder
 Please refer to the file: Second_predetermined_Queries.pdf
