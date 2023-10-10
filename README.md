@@ -1,4 +1,4 @@
-# FetchRewardsAssessment
+# Data Profiling and Mining Project
 This repository contains my Data Analysis Project
 
 ### First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
