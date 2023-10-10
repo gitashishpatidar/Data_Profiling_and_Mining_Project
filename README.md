@@ -1,5 +1,5 @@
 # FetchRewardsAssessment
-This repository contains my submission for FetchRewards Assessment
+This repository contains my Data Analysis Project
 
 ### First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 Please refer to the file: First_New_Structured_Data.pdf<br>
